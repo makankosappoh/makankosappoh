@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/peakolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peakolo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saharsh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saharsh sharma" height="30" width="40" /></a>
-<a href="https://kaggle.com/saharsh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saharsh sharma" height="30" width="40" /></a>
+<a href="https://x.com/SaharshS28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peakolo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saharsh-sharma-a5712b287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saharsh sharma" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/saharshsharma28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saharsh sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/saharsh_ssj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saharsh_ssj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/granolak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="granolak" height="30" width="40" /></a>
 </p>
