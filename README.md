@@ -97,8 +97,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
 </p>
 <hr>
-<h3 align="left">My DSA and CP stats:</h3>
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<h3 align="center">💫 My DSA and CP stats:</h3>
+<div align="center"; style="display: flex; gap: 20px; flex-wrap: wrap;">
   <a href="https://leetcode.com/u/SaharshSharma/" target="_blank">
     <img 
       src="https://leetcard.jacoblin.cool/SaharshSharma?ext=activity&theme=dark" 
