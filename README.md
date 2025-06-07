@@ -48,9 +48,8 @@
 <a href="https://www.udemy.com/user/saharsh-sharma-11/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Udemy-5624D0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Badge" />
 </a>
-
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!-- C -->
@@ -102,19 +101,20 @@
 >
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makankosappoh&theme=vision_friendly_dark" alt="Top Languages by Repo Count">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makankosappoh&theme=vision_friendly_dark" alt="Most Committed Language"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makankosappoh&theme=vision_friendly_dark&utcOffset=8" alt="Productive Time">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makankosappoh&theme=vision_friendly_dark" alt="Top Languages by Repo Count" style="width: 350px;" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makankosappoh&theme=vision_friendly_dark&utcOffset=8" alt="Productive Time" style="width: 350px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makankosappoh&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="Top Languages" style="width: 300px"/>
 </div>
+
 
 <div style="width: 100%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=makankosappoh&" alt="makankosappoh" style="width: 100%;" />
 </div>
 
 <hr>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=makankosappoh&theme=onedark" alt="GitHub Trophy">
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=makankosappoh&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <samp>
