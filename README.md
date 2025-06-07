@@ -32,7 +32,7 @@
 <a href="https://github.com/makankosappoh" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 </a>
-<a href="https://kaggle.com/saharsh sharma" target="_blank" rel="noopener noreferrer">
+<a href="https://www.kaggle.com/saharshsharma28" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge">
 </a>
 <a href="https://leetcode.com/u/SaharshSharma/" target="_blank" rel="noopener noreferrer">
