@@ -96,14 +96,23 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
 </p>
 <hr>
-<h3 align = "left">My DSA and CP stats:</h3>
-<a href="https://leetcode.com/u/SaharshSharma/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/SaharshSharma?ext=activity&theme=dark" alt="LeetCode Stats for SaharshSharma" style="height: 385px;" />
-</a>
-<a href="https://codeforces.com/profile/I-AM-TRIM" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=I-AM-TRIM&theme=midnight-purple&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats for I-AM-TRIM" style="height: 385px;" />
-</a>
-
+<h3 align="left">My DSA and CP stats:</h3>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <a href="https://leetcode.com/u/SaharshSharma/" target="_blank">
+    <img 
+      src="https://leetcard.jacoblin.cool/SaharshSharma?ext=activity&theme=dark" 
+      alt="LeetCode Stats for SaharshSharma" 
+      style="height: 385px; border: 2px solid white; border-radius: 10px;" 
+    />
+  </a>
+  <a href="https://codeforces.com/profile/I-AM-TRIM" target="_blank">
+    <img 
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=I-AM-TRIM&theme=midnight-purple&disable_animations=false&show_icons=true&force_username=true" 
+      alt="Codeforces Stats for I-AM-TRIM" 
+      style="height: 385px; border: 2px solid white; border-radius: 10px;" 
+    />
+  </a>
+</div>
 <hr>
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makankosappoh&theme=vision_friendly_dark" 
@@ -112,11 +121,11 @@
 >
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makankosappoh&theme=vision_friendly_dark" alt="Top Languages by Repo Count" style="height: 200px; width: 350px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makankosappoh&theme=vision_friendly_dark" alt="Top Languages by Repo Count" style=" width: 350px;" />
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makankosappoh&theme=vision_friendly_dark&utcOffset=8" alt="Productive Time" style="height: 200px; width: 350px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makankosappoh&theme=vision_friendly_dark&utcOffset=8" alt="Productive Time" style=" width: 350px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makankosappoh&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="Top Languages" style="height: 200px; width: 300px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makankosappoh&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="Top Languages" style=" width: 300px" />
 </div>
 
 
