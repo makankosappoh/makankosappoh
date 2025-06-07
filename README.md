@@ -122,11 +122,11 @@
 >
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makankosappoh&theme=vision_friendly_dark" alt="Top Languages by Repo Count" style=" width: 350px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makankosappoh&theme=vision_friendly_dark" alt="Top Languages by Repo Count" />
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makankosappoh&theme=vision_friendly_dark&utcOffset=8" alt="Productive Time" style=" width: 350px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makankosappoh&theme=vision_friendly_dark&utcOffset=8" alt="Productive Time"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makankosappoh&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="Top Languages" style=" width: 290px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makankosappoh&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en" alt="Top Languages" style=" width: 300px" />
 </div>
 
 
