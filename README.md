@@ -1,8 +1,7 @@
 <img src="https://github.com/makankosappoh/makankosappoh/blob/main/Machin_learning_banner.jpg" alt="logo" style="display: block; margin: 0 auto;">
 
-<h1 align="center">Hi 👋, I'm Saharsh Sharma</h1>
-<h3 align="center">A passionate Machine Leaning Enthusiast.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=makankosappoh&label=Profile%20views&color=0e75b6&style=flat" alt="makankosappoh" /> </p>
+<h1 align="center">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Saharsh Sharma</h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70074&background=EAFFD700&width=435&lines=A+Passionate+Machine+Learning+Enthusiast." alt="Typing SVG" /></a></h3>
 <p align="center">
 	<img src="https://i.imgur.com/nPZyGNo.gif" height="200" width="200" alt="GitHub Spray logo"/>
 </p>
@@ -14,9 +13,10 @@
 ⚡ Fun fact **I love drawing and artist as hobby :)**
 
 </div>
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">🤝 Connect with me:</h3>
+<p align="center">
 <a href="mailto:saharshsharma28@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
@@ -50,10 +50,11 @@
 <a href="https://www.udemy.com/user/saharsh-sharma-11/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Udemy-5624D0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Badge" />
 </a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=makankosappoh&label=Profile%20views&color=0e75b6&style=flat" alt="makankosappoh" /> </p>
 </p>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">💻 Languages and Tools:</h3>
+<p align="center">
 <!-- C -->
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
 <!-- C++ -->
