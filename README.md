@@ -8,9 +8,9 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Python & Math-algos for AI/Machine Learning.**  
+🌱 I’m currently learning **AI/Machine Learning with GenAI LLM related Projects.**  
 💬 Ask me about **Python**  
-⚡ Fun fact **I love drawing and artist as hobby :)**
+⚡ Fun fact **I love Gym, drawing and artist as hobby :)**
 
 </div>
 <hr>
@@ -20,7 +20,7 @@
 <a href="mailto:saharshsharma28@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
-<a href="https://x.com/SaharshS28" target="_blank" rel="noopener noreferrer">
+<a href="https://x.com/Peakolo_" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
 </a>
 <a href="https://www.linkedin.com/in/saharsh-sharma-a5712b287/" target="_blank" rel="noopener noreferrer">
