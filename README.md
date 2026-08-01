@@ -3,7 +3,11 @@
 <h1 align="center">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Saharsh Sharma</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70074&background=EAFFD700&width=435&lines=Just+me+with+AI/ML+and+Web+Design." alt="Typing SVG" /></a></h3>
 <p align="center">
-	<img src="https://i.imgur.com/nPZyGNo.gif" height="200" width="200" alt="GitHub Spray logo"/>
+  <img src="assets/toji.gif" width="300" height="152" alt="Toji">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/nPZyGNo.gif" width="200" height="200" alt="GitHub Activity">
+  &nbsp;&nbsp;&nbsp;
+	<img src="assets/choso.gif" width="300" height="169" alt="Choso">
 </p>
 <div align="center">
 
@@ -137,6 +141,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=makankosappoh&" alt="makankosappoh" style="width: 100%;" />
 </div>
 <hr>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
