@@ -1,15 +1,16 @@
 <img src="https://github.com/makankosappoh/makankosappoh/blob/main/Machin_learning_banner.jpg" alt="logo" style="display: block; margin: 0 auto;">
 
 <h1 align="center">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Saharsh Sharma</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70074&background=EAFFD700&width=435&lines=A+Passionate+Machine+Learning+Enthusiast." alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70074&background=EAFFD700&width=435&lines=Just+me+with+AI/ML+and+Web+Design." alt="Typing SVG" /></a></h3>
 <p align="center">
 	<img src="https://i.imgur.com/nPZyGNo.gif" height="200" width="200" alt="GitHub Spray logo"/>
 </p>
-
 <div align="center">
 
 🌱 I’m currently learning **AI/Machine Learning with GenAI LLM related Projects.**  
-💬 Ask me about **Python**  
+
+✨ Passionate and wanna learn about **creative Webflow/flutter/spline Graphic Porfolio designs**
+
 ⚡ Fun fact **I love Gym, drawing and artist as hobby :)**
 
 </div>
@@ -52,49 +53,51 @@
 </a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=makankosappoh&label=Profile%20views&color=0e75b6&style=flat" alt="makankosappoh" /> </p>
 </p>
+
 <hr>
 <h3 align="center">💻 Languages and Tools:</h3>
 <p align="center">
-<!-- C -->
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge" />
-<!-- C++ -->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
-<!-- Python -->
+<!-- Programming -->
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-<!-- HTML5 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-<!-- CSS3 -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-<!-- JavaScript -->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
+
+<!-- Frontend -->
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-<!-- Git -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-<!-- GitHub -->
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-<!-- Linux -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-<!-- OpenCV -->
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />
-<!-- MediaPipe -->
-<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe Badge" />
-<!-- Pandas -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
-<!-- NumPy -->
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
-<!-- Plotly -->
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge" />
-<!-- Seaborn -->
-<img src="https://img.shields.io/badge/Seaborn-1A2F48?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Badge" />
-<!-- Matplotlib -->
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Badge" />
-<!-- PyTorch -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+
+<!-- AI / ML / GenAI -->
+
+<img src="https://img.shields.io/badge/LLM-6C47FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Badge" />
+<img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge&logo=googlegemini&logoColor=white" alt="RAG Badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />
-<!-- TensorFlow -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
-<!-- Figma (duplicate) -->
+
+<!-- Backend -->
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
+
+<!-- Databases -->
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" alt="ChromaDB Badge" />
+
+<!-- Data Science -->
+
+<img src="https://img.shields.io/badge/Data%20Science-150458?style=for-the-badge&logo=python&logoColor=white" alt="Data Science Badge" />
+
+<!-- Tools -->
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
+
 </p>
 <hr>
 <h3 align="center">💫 My DSA and CP stats:</h3>
@@ -133,9 +136,10 @@
 <div style="width: 100%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=makankosappoh&" alt="makankosappoh" style="width: 100%;" />
 </div>
-
 <hr>
-<img src="https://github-profile-trophy.vercel.app/?username=makankosappoh&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <samp>
